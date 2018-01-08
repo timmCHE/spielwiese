@@ -1,0 +1,27 @@
+# This is a sample build configuration for Javascript (Node.js).
+# Check our guides at https://confluence.atlassian.com/x/14UWN for more examples.
+# Only use spaces to indent your .yml configuration.
+# -----
+# You can specify a custom docker image from Docker Hub as your build environment.
+
+image:
+  name: netroby/ubuntu-git
+  
+# https://confluence.atlassian.com/bitbucket/branch-workflows-856697482.html
+pipelines:
+  default:
+    - step:
+        script:
+        - echo got normal push starting test
+        - echo test test test test
+  tags:
+    '*.*.*-rc*':
+      - step:
+          script:
+            - echo "Building for $(git tag -l --points-at HEAD)"
+    '*.*.*':
+      - step:
+          script:
+            - echo "Building production for $(git tag -l --points-at HEAD)"
+options:
+  docker: true
