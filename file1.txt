@@ -4,3 +4,4 @@ Another change.
 A
 new
 fix
+a
