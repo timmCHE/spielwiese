@@ -3,3 +3,4 @@ test
 Another change.
 A
 new
+fix
