@@ -1,3 +1,15 @@
+####v0.1.3-rc1
+* de02640 [Release] Bumbed version to v0.1.2.
+* c6445ba [Release] Bumbed version to v0.1.2-rc2.
+* 88988d0 Fix it Baby
+* 10e8605 Fix it twice Baby
+* fd6f9fb [Release] Bumbed version to v0.1.2-rc1.
+* 777ddaf Another bugfix
+* d26c1ba [Release] Bumbed version to v0.1.1.
+* 702cbc3 [Release] Bumbed version to v0.1.1-rc1.
+* ce78444 Ein neues F
+* 46cea98 [Release] Bumbed version to v0.1.0.
+* f2a31ff [Release] Bumbed version to v0.1.0-rc1.
 ###v0.1.2
 ####v0.1.2-rc2
 * 88988d0 Fix it Baby
