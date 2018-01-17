@@ -1,3 +1,4 @@
+##v0.2.0
 ####v0.2.0-rc2
 * 26f5e51 new Feature
 * 7b77bfc new Bugfix
