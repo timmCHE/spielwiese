@@ -1,3 +1,6 @@
+####v0.2.0-rc2
+* 26f5e51 new Feature
+* 7b77bfc new Bugfix
 ####v0.2.0-rc1
 * e281132 new Feature
 * bf67f56 Fix it twice Baby
