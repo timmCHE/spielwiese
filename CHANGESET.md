@@ -1,4 +1,6 @@
 ####v0.1.4-rc4
+* e833217 [Release] Bumbed version to v0.1.4-rc4.
+####v0.1.4-rc4
 ####v0.2.1-rc1
 * 14d813e mal wieder ein bug.
 ##v0.2.0
