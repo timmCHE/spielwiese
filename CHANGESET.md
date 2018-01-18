@@ -1,3 +1,6 @@
+####v0.3.1-rc1
+* 2208d18 cleaning
+* beda4f3 Recover shinyness.
 ##v0.3.0
 ####v0.3.0-rc1
 * 4824a6d Implemented more awesomeness
