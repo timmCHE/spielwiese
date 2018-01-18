@@ -1,3 +1,7 @@
+###v0.2.1
+* b4150d6 [Release] Bumbed version to v0.1.4-rc4.
+* 6d12002 [Release] Bumbed version to v0.1.4-rc4.
+* e833217 [Release] Bumbed version to v0.1.4-rc4.
 ####v0.1.4-rc4
 * 6d12002 [Release] Bumbed version to v0.1.4-rc4.
 * e833217 [Release] Bumbed version to v0.1.4-rc4.
