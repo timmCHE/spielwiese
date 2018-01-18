@@ -1,3 +1,4 @@
+###v0.1.3
 ####v0.1.3-rc1
 * de02640 [Release] Bumbed version to v0.1.2.
 * c6445ba [Release] Bumbed version to v0.1.2-rc2.
