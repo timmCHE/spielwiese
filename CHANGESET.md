@@ -1,3 +1,7 @@
+###v0.3.1
+* acbdcba Recover shinyness.
+* 9920293 Fix it Baby
+* f5ab5e4 cleaning
 ####v0.3.1-rc1
 * 2208d18 cleaning
 * beda4f3 Recover shinyness.
