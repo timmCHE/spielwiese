@@ -1,3 +1,5 @@
+####v0.1.4-rc5
+* b71d0e4 Recover shinyness.
 ####v0.1.4-rc4
 * 49709e5 cleaning
 ####v0.1.4-rc3
