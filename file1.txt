@@ -1,22 +1,6 @@
-hello world
-test
-Another change.
-A
-new
-fix
+feature
+a bugfix
 a
 b
 c
 d
-e
-a
-b
-a
-a
-b
-feature
-bug
-
-ein neues
-feature
-a bugfix
