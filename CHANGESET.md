@@ -1,3 +1,6 @@
+####v0.3.2-rc1
+* 68c4518 b
+* 75d1b07 a
 ###v0.3.1
 * acbdcba Recover shinyness.
 * 9920293 Fix it Baby
