@@ -1,3 +1,7 @@
+####v0.2.2-rc1
+* acbdcba Recover shinyness.
+* 9920293 Fix it Baby
+* f5ab5e4 cleaning
 ###v0.2.1
 * b4150d6 [Release] Bumbed version to v0.1.4-rc4.
 * 6d12002 [Release] Bumbed version to v0.1.4-rc4.
