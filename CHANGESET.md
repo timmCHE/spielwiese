@@ -1,3 +1,4 @@
+###v0.2.2
 ####v0.2.2-rc1
 * acbdcba Recover shinyness.
 * 9920293 Fix it Baby
