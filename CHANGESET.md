@@ -1,3 +1,5 @@
+###v0.5.1
+* f332f27 New Bugfix... again
 ####v0.5.1-rc1
 * 7eb8d92 New Bugfix... again
 ##v0.5.0
