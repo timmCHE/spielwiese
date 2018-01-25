@@ -1,3 +1,4 @@
+##v0.5.0
 ####v0.5.0-rc1
 * 644c91d New Feature... again
 * fdc2429 g
