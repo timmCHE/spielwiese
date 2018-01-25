@@ -1,3 +1,5 @@
+####v0.3.4-rc2
+* 626577e New Bugfix... again
 ####v0.3.4-rc1
 * fdd27f1 e
 ###v0.3.3
