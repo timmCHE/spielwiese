@@ -1,3 +1,5 @@
+###v0.6.1
+* 2d9bf9a [Bugfix] irgendwas.
 ####v0.6.1-rc2
 ####v0.6.1-rc1
 * 331d4b1 [Bugfix] irgendwas.
