@@ -2,6 +2,7 @@ feature
 a bugfix
 a
 b
+speak
 c
 d
 e
