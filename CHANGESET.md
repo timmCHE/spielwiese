@@ -1,3 +1,5 @@
+####v0.4.7-rc1
+* 46dd8a6 [Bugfix] irgendwas.
 ###v0.4.6
 ####v0.4.6-rc1
 * f332f27 New Bugfix... again
