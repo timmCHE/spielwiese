@@ -1,3 +1,4 @@
+###v0.6.2
 ####v0.6.2-rc2
 * d439770 file1.txt edited online with Bitbucket (cherry picked from commit 0ce9dfc5a0051634fb4520e02a64fa2b650a6c5d)
 * 5566f89 [Release] Bumbed version to v0.6.2-rc1.
