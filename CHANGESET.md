@@ -1,3 +1,5 @@
+###v0.8.2
+* 0ce695a inserted c
 ####v0.8.2-rc1
 * a84108e inserted c
 * 77b7627 [Release] Bumbed version to v0.8.1.
