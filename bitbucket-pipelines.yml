@@ -23,5 +23,12 @@ pipelines:
       - step:
           script:
             - echo "Building production for $(git tag -l --points-at HEAD)"
+  custom:
+    'merge_pr':
+      - step:
+          script:
+            - echo "We will test"
+            - echo "we will merge"
 options:
   docker: true
+
