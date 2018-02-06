@@ -32,7 +32,7 @@ pipelines:
             - git status
             - ls -lisa
             - git fetch
-            - git rebase master
+            - git rebase origin/master
             - echo "We will test"
             - echo "we will merge"
             - git checkout master
