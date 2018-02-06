@@ -31,6 +31,7 @@ pipelines:
             - set
             - git status
             - ls -lisa
+            - git fetch
             - git rebase master
             - echo "We will test"
             - echo "we will merge"
