@@ -31,7 +31,7 @@ pipelines:
             - set
             - git status
             - ls -lisa
-            - git fetch upstream
+            - git fetch origin
             - git branch -a
             - git rebase origin/master
             - echo "We will test"
