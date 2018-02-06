@@ -8,7 +8,7 @@ image:
   name: netroby/ubuntu-git
 
 clone:
-  depth: all
+  depth: full
   
 # https://confluence.atlassian.com/bitbucket/branch-workflows-856697482.html
 pipelines:
