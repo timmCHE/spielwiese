@@ -42,7 +42,7 @@ pipelines:
             - echo "We will test"
             - echo "we will merge"
             - git checkout master
-            - git merge -ff $BITBUCKET_BRANCH
+            - git merge --ff $BITBUCKET_BRANCH
             - git push
             - git push origin --delete $BITBUCKET_BRANCH
 options:
