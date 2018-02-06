@@ -36,6 +36,8 @@ pipelines:
             - ls -lisa
             - git fetch origin
             - git branch -a
+            - git config --global user.email "admin@sp-institute.com"
+            - git config --global user.name "BuildBot"
             - git rebase origin/master
             - echo "We will test"
             - echo "we will merge"
