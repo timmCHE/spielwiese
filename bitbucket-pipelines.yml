@@ -27,6 +27,10 @@ pipelines:
     'merge_pr':
       - step:
           script:
+            - env
+            - set
+            - git status
+            - ls -lisa
             - git rebase master
             - echo "We will test"
             - echo "we will merge"
