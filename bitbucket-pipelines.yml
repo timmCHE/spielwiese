@@ -17,6 +17,7 @@ pipelines:
         script:
         - echo got normal push starting test
         - echo test test test test
+        - exit 1
   tags:
     '*.*.*-rc*':
       - step:
